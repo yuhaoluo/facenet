@@ -1,0 +1,47 @@
+/home/lyh/Datasets/Bounding_Box/1/1.jpg
+2
+295.981	251.007	379.976	363.77 4
+122.598	200.026	221.17	346.563 1
+/home/lyh/Datasets/Bounding_Box/2/2.jpg
+2
+77.5803	182.786	283.857	432.064 5
+315.425	93.9869	533.058	364.792 1
+/home/lyh/Datasets/Bounding_Box/3/3.jpg
+1
+261.723	109.173	330.611	207.443 1
+/home/lyh/Datasets/Bounding_Box/4/4.jpg
+1
+146.171	87.8153	252.637	225.964 1
+/home/lyh/Datasets/Bounding_Box/5/5.jpg
+1
+125.546	80.0291	263.415	261.597 1
+/home/lyh/Datasets/Bounding_Box/6/6.jpg
+3
+175.687	139.022	243.564	222.693 6
+377.143	142.726	445.172	221.81 2
+280.016	162.107	344.349	242.274 7
+/home/lyh/Datasets/Bounding_Box/7/7.jpg
+1
+175.743	60.3845	267.12	181.599 2
+/home/lyh/Datasets/Bounding_Box/8/8.jpg
+1
+104.6	43.8951	174.959	135.062 2
+/home/lyh/Datasets/Bounding_Box/9/9.jpg
+1
+575.477	95.7647	717.782	266.467 2
+/home/lyh/Datasets/Bounding_Box/10/10.jpg
+1
+81.1658	28.3903	222.198	216.345 3
+/home/lyh/Datasets/Bounding_Box/11/11.jpg
+1
+308.574	116.792	430.99	288.831 3
+/home/lyh/Datasets/Bounding_Box/12/12.jpg
+2
+136.579	71.0904	205.978	175.4 3
+417.126	32.823	490.531	139.82 8
+/home/lyh/Datasets/Bounding_Box/13/13.jpg
+2
+90.1596	30.344	156.833	123.558 3
+223.736	36.1262	297.016	124.193 2
+
+
